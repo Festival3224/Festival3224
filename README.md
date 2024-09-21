@@ -5,8 +5,8 @@ I'm Frontend Developer with a skill for quickly adapting and learning new techno
 <!-- - 🔭 Сейчас работаю над проектом Vue 3 -->
 - 🔭 My favorite framework is Vue3
 - 🌱 Leaning TypeScript and using Tailwind CSS for styling
-- 📫 Contact me: [kapustaeugenia@gmail.com](mailto:email@example.com)
-- 💼 My LinkedIn: [LinkedIn](www.linkedin.com/in/eugenia-kapusta)
+- 📫 Contact me: [kapustaeugenia@gmail.com](mailto:kapustaeugenia@gmale.com)
+- 💼 My LinkedIn: [www.linkedin.com/in/eugenia-kapusta](www.linkedin.com/in/eugenia-kapusta)
 <!-- - ⚡ Веселый факт: Я люблю программировать и путешествовать!-->
 
 <!-- 
