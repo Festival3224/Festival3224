@@ -1,12 +1,17 @@
 ## Hi there 👋 I'm Eugenia
 
-- 🔭 Сейчас работаю над проектом Vue 3
-- 🌱 Изучаю TypeScript и Tailwind CSS
-- 📫 Как со мной связаться: [email@example.com](mailto:email@example.com)
-- 💼 Мой LinkedIn: [LinkedIn](https://www.linkedin.com/in/festival3224)
-- ⚡ Веселый факт: Я люблю программировать и путешествовать!
+I'm Frontend Developer, based in Spain.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Festival3224&show_icons=true&theme=radical)
+<!-- - 🔭 Сейчас работаю над проектом Vue 3 -->
+- 🔭 my favorite framework Vue 3
+- 🌱 Leaning TypeScript and using Tailwind CSS for styling
+- 📫 Contact me: [kapustaeugenia@gmail.com](mailto:email@example.com)
+- 💼 Mine LinkedIn: [LinkedIn](https://www.linkedin.com/in/festival3224)
+<!-- - ⚡ Веселый факт: Я люблю программировать и путешествовать!-->
+
+<!-- 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Festival3224&show_icons=true&theme=radical)
+  -->
 
 
 <!--
