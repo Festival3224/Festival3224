@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Eugenia
 
-I'm Frontend Developer, based in Spain.
+I'm Frontend Developer with a skill for quickly adapting and learning new technologies..
 
 <!-- - 🔭 Сейчас работаю над проектом Vue 3 -->
 - 🔭 my favorite framework Vue 3
 - 🌱 Leaning TypeScript and using Tailwind CSS for styling
 - 📫 Contact me: [kapustaeugenia@gmail.com](mailto:email@example.com)
-- 💼 Mine LinkedIn: [LinkedIn](https://www.linkedin.com/in/festival3224)
+- 💼 My LinkedIn: [LinkedIn](https://www.linkedin.com/in/festival3224)
 <!-- - ⚡ Веселый факт: Я люблю программировать и путешествовать!-->
 
 <!-- 
