@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Eugenia
 
-I'm Frontend Developer with a skill for quickly adapting and learning new technologies. Looking for a new role in an exciting company. 
+I'm Frontend Developer with a skill for quickly adapting and learning new technologies. Looking for a new role in an exciting company and I'm open to a wide range of opportunities. My preference would be to find a position in a company in Barcelona. But I'm also happy to hear about opportunities that don't fit that description.
 
 <!-- - 🔭 Сейчас работаю над проектом Vue 3 -->
 - 🔭 My favorite framework is Vue3
